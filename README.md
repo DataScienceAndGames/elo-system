@@ -1,2 +1,2 @@
 # elo-system
-Scripts for implementing an Elo ranking system
+Scripts for implementing an Elo ranking system like the one used in chess or in online games. The only present as of now is for 2v2 games. To use it, have a csv file called "players.csv". In the file put in each line the name of a player and its initial ranking separated by a comma. Call the script giving as arguments first the name of the two winners and then the name of the two losers and it will update the leaderboard.
